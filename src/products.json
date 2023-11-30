@@ -1,0 +1,26 @@
+[
+  {
+    "sku": "91DK43X5150PI",
+    "name": "Smart TV 43'' DK43X5150PI Noblex",
+    "price": 169999,
+    "image": "https://noblex.com.ar/media/catalog/product/cache/c8f6a96bef9e9f64cd4973587df2520f/p/o/pop_tv_lineal_2023_dk43x5150_2.jpg",
+    "description": "Lo que tenés que saber de este producto:\nSu resolución es Full HD.\nModo de sonido: Dolby Digital.\nManejalo por comando de voz.\nCon Prime Video.\nGoogle Assistant incorporado.\nSistema operativo Android.\nCapacidad de almacenamiento de 8GB.\nConectá tus dispositivos mediante sus 2 puertos HDMI y sus 2 puertos USB.\nDimensiones: 95.5cm de ancho, 55.5cm de alto, 0.9cm de profundidad.\nEntretenimiento y conectividad en un mismo lugar.",
+    "stock": 0
+  },
+  {
+    "sku": "A045MZKEARO",
+    "name": "iPhone 15 Pro 128GB",
+    "price": 1559999,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_891263-MLA71783089058_092023-O.webp",
+    "description": "Lo que tenés que saber de este producto:\nDiseño resistente y ligero.\nPantalla Super Retina XDR con ProMotion con frecuencia de actualización hasta 120 Hz.\nLa Dynamic Island muestra alertas y actividades en vivo al instante.\nSistema de cámaras pro de super alta resolución.\nBotón de acción personalizable para ir a tu funcionalidad favorita.\nCon conector USB-C y WiFi 6 con el doble de velocidad.\nFuncionalidad esencial de seguridad con detección de choques para pedir ayuda.\nCon tecnologías de privacidad que te ayudan a mantener el control de tus datos.\nDimensiones: 146.6 mm x 70.6 mm x 8.25 mm.\nPeso: 187 gramos.",
+    "stock": 3
+  },
+  {
+    "sku": "A731BZEJARO",
+    "name": " iPad (9ª generación) 256GB",
+    "price": 1642714,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_883063-MLA72121884357_102023-O.webp",
+    "description": "Lo que tenés que saber de este producto:\nIncreíble pantalla Retina de 10.2 pulgadas con True Tone.\nChip A13 Bionic con Neural Engine.\nCámara trasera gran angular de 8 MP y cámara frontal ultra gran angular de 12 MP con Encuadre Centrado.\nTouch ID para una autenticación segura y Apple Pay.\nWi-Fi 802.11ac.\nHasta 10 horas de batería.\nConector Lightning para cargar el iPad mini y para conectar accesorios.\nCompatible con el Apple Pencil (primera generación) y el Smart Keyboard.\niPadOS 15 es tan poderoso como fácil de usar y está diseñado para la versatilidad del iPad.",
+    "stock": 5
+  }
+]

@@ -1,0 +1,17 @@
+:root {
+  --main-bg-color: #3d357d;
+  --main-text-color: #1d1d1d;
+  --main-text-nav-color: #ffffff;
+  --hover-text-color: #dadada;
+  --main-filter-br-hover: brightness(1.2);
+  --main-filter-br-active: brightness(0.8);
+  --main-secondary-color: #3d357d;
+  width: 100%;
+  height: 100%;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

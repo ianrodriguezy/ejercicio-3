@@ -1,0 +1,90 @@
+.navbar {
+  background-color: var(--main-bg-color);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 3rem;
+  padding: 0 0.8rem;
+  box-shadow: 0 0 0.5rem rgba(39, 39, 39, 0.5);
+  font-family: system-ui;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.navBrand{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.3rem;
+  height: inherit;
+  color: var(--main-text-nav-color);
+}
+
+.navBrandName {
+  color: var(--main-text-nav-color);
+  text-decoration: none;
+  list-style: none;
+  cursor: pointer;
+}
+
+.navBrandName:hover, .navMenuItemLink:hover {
+  color: var(--hover-text-color);
+}
+
+.navBrandIcon{
+  height: 1.5rem;
+  width: 1.5rem;
+  filter: invert();
+}
+
+.searchBar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.5rem;
+  height: inherit;
+}
+
+.searchBarInput {
+  height: 1.5rem;
+  width: 15rem;
+  border-radius: 0.5rem;
+  border: none;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.searchBarInput:focus {
+  outline: none;
+}
+
+.searchBarIcon {
+  height: 1.5rem;
+  width: 1.5rem;
+  filter: invert();
+}
+
+.searchBarIcon:hover {
+  filter: var(--main-filter-br-hover) invert(80%);
+}
+
+.searchBarIcon:active {
+  filter: var(--main-filter-br-active) invert(70%);
+}
+
+.navMenuList {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  align-items: center;
+  height: 2rem;
+  list-style: none;
+}
+
+.navMenuItemLink {
+  color: var(--main-text-nav-color);
+  text-decoration: none;
+  list-style: none;
+  cursor: pointer;
+}
